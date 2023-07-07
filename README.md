@@ -1,1 +1,1 @@
-release-drafter-demo for test
+release-drafter-demo for testing
